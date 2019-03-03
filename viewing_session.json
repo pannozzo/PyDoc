@@ -1,0 +1,11 @@
+{
+   "source": {
+       "type": "upload",
+       "displayName": "sample.doc"
+   },
+   "render": {
+       "html5":  {
+           "vectorTolerance" : 1.0
+       }
+   }
+}
